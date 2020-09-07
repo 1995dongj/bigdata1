@@ -1,11 +1,7 @@
 package kr.smhrd;
 public class MyUtil {
-	// 1~10±îÁöÀÇ ÃÑÇÕÀ» ±¸ÇÏ´Â µ¿ÀÛ
+	// í•œê¸€ìˆ˜ì •
    public int hap() {
-      int sum=0;
-      for(int i=1;i<=10;i++) {
-         sum+=i;
-      }
-      return sum;
+	   return 55;
    }
-}
+ }
