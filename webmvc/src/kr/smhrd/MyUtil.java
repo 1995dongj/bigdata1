@@ -2,7 +2,10 @@ package kr.smhrd;
 public class MyUtil {
 	// 한글수정
    public int hap() {
-	// 야 임마 여기 좀 수정좀 해주겠니?
-	return 55;
+	int sum = 0;
+	for(int i=1;i<=100;i++) {
+		sum += i;
+	}
+		return 55;
    }
  }
