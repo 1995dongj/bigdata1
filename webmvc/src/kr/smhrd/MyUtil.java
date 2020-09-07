@@ -1,8 +1,8 @@
 package kr.smhrd;
 public class MyUtil {
-	// ±æµ¿¾Æ ºÎÅ¹
+	// 
    public int hap() {
-	   // ´©±¸¾ß ¼öÁ¤Á» ºÎÅ¹ÇÑ´Ù.
+	   //ëˆ„êµ¬ì•¼ ìˆ˜ì •ì¢€
 	   int sum = 0;
 	   for(int i=0;i<=100;i++) {
 		   sum += 0;
